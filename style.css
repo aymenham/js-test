@@ -1,0 +1,11 @@
+input[name="success"] {
+    text-align: right;
+  }
+  button[type="submit"] {
+    display: block;
+    margin: 1rem 0;
+  }
+  .output {
+    font-family: monospace;
+  }
+  
